@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I create apps born from a desire to support the people I care about. My heart is full of gratitude for everyone and everything that inspired this journey."
-（大切な人を支えたいという想いからアプリを作っています。この歩みにインスピレーションをくれた人と出来事に、心から感謝しています。）
+I create apps born from a desire to feel
+relax the people I care about. My heart is full of gratitude for everyone and everything that inspired this journey."
+（大切な人に楽になってほしい　という想いからアプリを作っています。この歩みにインスピレーションをくれた人と出来事に、心から感謝しています。）
 
 I'm an app developer and cram school teacher.
 My goal is to create simple apps that make people's thoughts and actions "lighter" and easier.
