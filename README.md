@@ -2,7 +2,7 @@
 
 I create apps born from a desire to feel
 relax the people I care about. My heart is full of gratitude for everyone and everything that inspired this journey."
-（大切な人に楽になってほしい　という想いからアプリを作っています。この歩みにインスピレーションをくれた人と出来事に、心から感謝しています。）
+（大切な人に楽になってほしい　という想いからアプリを作っています。この歩みにインスピレーションをくれた出来事に、心から感謝しています。）
 
 I'm an app developer and cram school teacher.
 My goal is to create simple apps that make people's thoughts and actions "lighter" and easier.
@@ -15,5 +15,5 @@ My goal is to create simple apps that make people's thoughts and actions "lighte
 
 
 Driven by love for those I cherish. With gratitude for everything that made me who I am today."
-（大切な方々への愛を原動力に。今の私を作ってくれた全てのことに感謝を込めて。）
+（大切な方々への想いを原動力に。今の私を作ってくれた全てのことに感謝を込めて。）
 
