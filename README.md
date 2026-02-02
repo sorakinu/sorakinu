@@ -14,5 +14,5 @@ My goal is to create simple apps that make people's thoughts and actions "lighte
 
 
 Driven by love for those I cherish. With gratitude for everything that made me who I am today."
-（大切な人への愛を原動力に。今の私を作ってくれた全てのことに感謝を込めて。）
+（大切な方々への愛を原動力に。今の私を作ってくれた全てのことに感謝を込めて。）
 
